@@ -84,11 +84,6 @@ README.md
 
 ---
 
-## 📹 Demo
-
-> _(Include a GIF or video demo here for better visualization if available)_
-
----
 
 ## 🤝 Contributions
 
